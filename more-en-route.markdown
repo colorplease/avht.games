@@ -28,7 +28,7 @@ For example, a previous game
 
 When it all came time for them to convene and show what they’ve done, it was all messed up. Design came up with abilities that were genuinely impossible for the characters that art had designed to do, all while programming wasn’t given any indication on what the movement should feel like according to the abilities and character designs.
 
-So what if we developed a pitch that *forced* these departments to talk to each other?
+So what if we developed a pitch that *forced* these departments to talk to each other? 
 
 ![Image](/images/EN ROUTE/CHARACTERS00086405_cropped.png)
 
