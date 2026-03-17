@@ -26,7 +26,7 @@ Lead Programmer
 
 - [ 2021-04-13 / 2021-04-27 ] [Disconnection](https://colorplease.itch.io/disconnection)
 
-First solo development project! 2D Puzzle Platformer Speedrunner. Made for "OST Jam Vol. 2."
+First solo development project! 2D Puzzle Platformer Speedrunner. Made for "OST Jam Vol. 2." 
 Programming, Game Design, 2D Art
 ![Image](/images/more/disconnect.gif)
 
