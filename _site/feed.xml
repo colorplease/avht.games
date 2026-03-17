@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-17T13:35:22-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">alistair tran</title><subtitle>big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever.</subtitle><entry><title type="html">Crowd Surfers</title><link href="http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers-copy.html" rel="alternate" type="text/html" title="Crowd Surfers" /><published>2026-01-03T09:40:33-08:00</published><updated>2026-01-03T09:40:33-08:00</updated><id>http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers%20copy</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers-copy.html"><![CDATA[<h1 id="crowd-surfers">Crowd Surfers</h1>
+<p>ONGOING PROJECT…NO PLAYABLES RIGHT NOW.</p>
+
+<p>“unserious top-down speedrunner”</p>
+
+<p>Inspired by <em>Jet Set Radio, Lethal League, Neon White, and Speedrunners</em></p>
+
+<p>I sought to be a <strong>productive</strong> programming producer, making sure programmers <strong>communicated with each other</strong> and ultimately <strong>kept the project pushing.</strong></p>
+
+<p><img src="/images/Crowd Surfers/unnamed (1) (2).png" alt="Image" />
+<img src="/images/Crowd Surfers/crowd surfers.gif" alt="Image" /></p>
+
+<p>A game made by the <a href="https://gdacollab.com/">Game Design and Art Collaboration</a> at UCSC. Crowd Surfers is a dynamic momentum-based top-down speedrunner. A young pizza delivery guy with bills to pay must dash, stomp, and glide over obstacles in order to deliver pizza on time!</p>
+
+<h1 id="contributions">Contributions</h1>
+<ul>
+  <li>Managed 50+ contributors through the production of the game</li>
+  <li>Maintained Github Project by delegating tasks every sprint</li>
+  <li>Engaged in a SCRUM based sprint system and worked closely with other producers to maintain course throughout production</li>
+  <li>Designed basic system architecture for early production, later delegating tasks and overseeing iterations</li>
+  <li>Communicated with other departments, such as sound, art, and design, to relay pain points in production and delegate tool development tasks for smoother production</li>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Crowd Surfers ONGOING PROJECT…NO PLAYABLES RIGHT NOW.]]></summary></entry><entry><title type="html">blu,</title><link href="http://localhost:4000/jekyll/update/2026/01/01/blu.html" rel="alternate" type="text/html" title="blu," /><published>2026-01-01T09:40:33-08:00</published><updated>2026-01-01T09:40:33-08:00</updated><id>http://localhost:4000/jekyll/update/2026/01/01/blu</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2026/01/01/blu.html"><![CDATA[<h1 id="blu">blu,</h1>
+<p><a href="https://store.steampowered.com/app/3895850/blu/">STEAM PAGE</a>. NO PLAYABLES RIGHT NOW.</p>
+
+<p>“A game about a collection of games that aren’t mine.”</p>
+
+<p>Inspired by <em>The Beginner’s Guide, Haunted PS1 Demo Disc, Inscryption, and Monogatari Series</em></p>
+
+<p>I sought to make a collection of games about things that <strong>ultimately aren’t too important.</strong> I wanted tiny problems that everyone goes through to feel big, and comfort those who are currently grappling with <strong>these tiny tiny problems</strong>.</p>
+
+<p>THIS IS A PAGE ABOUT THE <strong>COLLECTION OF GAMES ITSELF.</strong>
+HERE’S THE LIST OF GAMES <strong>IN THE COLLECTION</strong>.</p>
+
+<ol>
+  <li>[ 2026-01-01 / 2026-02-06 ] <a href="/my-first-game/">my first game.</a> <img src="/images/blu,/my first game/woodenguy.png" align="center" /></li>
+  <li>[ 2026-02-10 / ongoing ] Leap Day (wip…)</li>
+  <li>???</li>
+</ol>
+
+<p><img src="/images/blu,/up.jpg" alt="Image" /></p>
+
+<p>An independently developed project, with a few contributors here and there.</p>
+
+<p><em>blu,</em> is a narrative game about a collection of games that don’t belong to its creator. The game takes place in a museum, where the player is guided through 12 mysterious games that were “found” on an abandoned laptop.</p>
+
+<p>It serves as a social experiment on how much more an audience will <strong>relate and bond</strong> to a collection of art when separated from its author.</p>
+
+<p><em>blu,</em> not only presents the story found within the collection of games it presents, but also a story about the person who curated all of them together.</p>
+
+<p><img src="/images/blu,/tape.jpg" alt="Image" /></p>
+
+<h1 id="contributions">Contributions</h1>
+<ul>
+  <li>Vision Holder / Game Lead for the project</li>
+  <li>Designed all of the games within the collection</li>
+  <li>Programmed all of the games within the collection</li>
+  <li>Wrote for all of the games within the collection
+Collaborated with artists and composers to nail down the visual/audio style for each of the stories of the collections
+Brought this project to The Experimental Games Showcase at GDC, holding countless playtests and collaborating with fellow narrative designers on nailing down the story</li>
+</ul>
+
+<h1 id="read-more"><a href="/more-blu/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[blu, STEAM PAGE. NO PLAYABLES RIGHT NOW.]]></summary></entry><entry><title type="html">EN ROUTE</title><link href="http://localhost:4000/jekyll/update/2025/10/22/en-route.html" rel="alternate" type="text/html" title="EN ROUTE" /><published>2025-10-22T10:40:33-07:00</published><updated>2025-10-22T10:40:33-07:00</updated><id>http://localhost:4000/jekyll/update/2025/10/22/en-route</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/10/22/en-route.html"><![CDATA[<h1 id="en-route">EN ROUTE</h1>
+<p>THIS WAS A GAME <a href="https://drive.google.com/drive/folders/1J46ctG2OtOZIRKvR9qcFSLwN4Vl5pLn9">PITCH</a>. NO PLAYABLES RIGHT NOW.</p>
+
+<p>“Ever heard of Soul Eater?”</p>
+
+<p>Inspired by <em>Soul Eater, Fear &amp; Hunger, OFF, and Hyper Light Drifter</em></p>
+
+<p>I sought to make a <strong>brutal</strong> game that encouraged people to <strong>empathize and work collaboratively</strong> with their in-game party members and <strong>fellow game developers.</strong></p>
+
+<p><img src="/images/EN ROUTE/TITLE_SLIDE00086405_cropped.png" alt="Image" />
+<img src="/images/EN ROUTE/CHARACTERS00086405_cropped.png" alt="Image" /></p>
+
+<p>A game pitched for the <a href="https://gdacollab.com/">Game Design and Art Collaboration</a> at UCSC.</p>
+
+<p>Every year, they hold a pitching competition between members of the club in order to pick what game they work on each year. There are 200-300 students within the <a href="https://gdacollab.com/">Game Design and Art Collaboration</a> and roughly 20-30 pitches are given each year.</p>
+
+<p><em>EN ROUTE</em> is a top-down 2D action adventure RPG. Merging aspects from RPG Maker and action adventure RPGs, every part of your kit is actually a member within your party. Movement, weapons, and abilities are all dictated by what party members you have, and getting to know them better will strengthen their abilities. These “living abilities” are the only things that will keep you alive out there.</p>
+
+<h1 id="contributions">Contributions</h1>
+<ul>
+  <li>Vision Holder / Game Lead for the project</li>
+  <li>Interviewed multiple officers to measure pain points within previous project developments (which departments felt underrepresented? which departments felt overworked? communication between departments? etc.)</li>
+  <li>Designed a game geared towards a large scale team, greatly encouraging interdepartmental communication and no one feeling left out</li>
+  <li>Worked closely with artists, composers, writers, designers, and programmers to give them as much creative freedom as possible for potential characters.</li>
+  <li>Collaborated with two 2D artists and one designer to write up 5+ iterations of game design documents and pitch slideshows</li>
+  <li>Designed all of the background artwork and dressing for the pitch slides</li>
+  <li>Pitched to a live audience of 200+ people</li>
+</ul>
+
+<h1 id="placements">Placements</h1>
+<p>2nd Place with 137 votes. We’ll get em’ next time!!</p>
+
+<h1 id="read-more"><a href="/more-en-route/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[EN ROUTE THIS WAS A GAME PITCH. NO PLAYABLES RIGHT NOW.]]></summary></entry><entry><title type="html">SORRY, SORRY, SORRY</title><link href="http://localhost:4000/jekyll/update/2025/10/11/sorry-sorry-sorry.html" rel="alternate" type="text/html" title="SORRY, SORRY, SORRY" /><published>2025-10-11T10:40:33-07:00</published><updated>2025-10-11T10:40:33-07:00</updated><id>http://localhost:4000/jekyll/update/2025/10/11/sorry-sorry-sorry</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/10/11/sorry-sorry-sorry.html"><![CDATA[<h1 id="sorry-sorry-sorry"><a href="https://colorplease.github.io/sorry-sorry-sorry-web/">SORRY, SORRY, SORRY</a></h1>
+<p><a href="https://youtu.be/hIr7dzAoFH0">Video Playthrough</a></p>
+
+<p>“Ultimate Chicken Horse but you have a cloning time machine”</p>
+
+<p>Inspired by <em>Ultimate Chicken Horse, Quantum League, Celeste, and Give Up</em></p>
+
+<p>I sought to make a <strong>strategic</strong> game about <strong>adapting</strong> with an evolving game state, and <strong>exploiting your past self.</strong></p>
+
+<p><img src="/images/SORRY,SORRY,SORRY/sorry sorry sorry.gif" alt="Image" /></p>
+
+<p>A game made for the game jam:  <a href="https://itch.io/jam/gda-fall-festival-jam">“GDA Fall Festival Jam.”</a> <em>SORRY, SORRY, SORRY</em> is a competitive 2D platformer where you build the level as you play, placing them to either hinder your opponent or secure your victory. Be careful! There seems to be an engine bug where your <strong><em>past lives</em></strong> also want in on the action…</p>
+
+<h1 id="contributions">Contributions</h1>
+<ul>
+  <li>Vision Holder / Game Lead for the project</li>
+  <li>Programmed a movement recording system for the players’ previous rounds</li>
+  <li>Developed a clone playback system so that players could see and interact with their past lives</li>
+  <li>Designed and implemented all in-game items</li>
+  <li>Implemented rigorous, iterative playtesting experiments to properly balance the game by listening to player feedback</li>
+  <li>Collaborated closely with a 2D artist and a composer to scope out, plan, and ultimately ship the game
+game</li>
+</ul>
+
+<h1 id="placements">Placements</h1>
+<p>wasn’t a ranked jam :(</p>
+
+<h1 id="read-more"><a href="/more-sorry-sorry-sorry/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[SORRY, SORRY, SORRY Video Playthrough]]></summary></entry><entry><title type="html">FinuxOS</title><link href="http://localhost:4000/jekyll/update/2022/04/01/finuxos.html" rel="alternate" type="text/html" title="FinuxOS" /><published>2022-04-01T10:40:33-07:00</published><updated>2022-04-01T10:40:33-07:00</updated><id>http://localhost:4000/jekyll/update/2022/04/01/finuxos</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/01/finuxos.html"><![CDATA[<h1 id="finuxos"><a href="https://colorplease.itch.io/finuxos">FinuxOS</a></h1>
+<p><a href="https://youtu.be/8DnUWYee8Vg">Video Playthrough</a></p>
+
+<p>“limewire + warioware” - BlabApple</p>
+
+<p>Inspired by <em>Inscryption, Among Us, Survive The Internet, and Windows 95</em></p>
+
+<p>I sought to make a <strong>charming</strong> game that took <strong>mundane, everyday tasks</strong> and turned them into <strong>tense and engaging</strong> minigames.</p>
+
+<p><img src="/images/FinuxOS/finuxOS.gif" alt="Image" /></p>
+
+<p>A game made for the game jam:  <a href="https://itch.io/jam/black-and-white-jam-8">“Black and White Jam #8↷∞.”</a> <em>FinuxOS</em> is a mini-game working simulator on a virtual desktop, where the player has a list of tasks that they must finish within the day, or face the consequences of a forever looping white-collar hell.</p>
+
+<h1 id="contributions">Contributions</h1>
+<ul>
+  <li>Vision Holder / Game Lead for the project</li>
+  <li>Designed and programmed all gameplay tasks</li>
+  <li>Utilized Unity’s UI system to implement and design virtual desktop environment</li>
+  <li>Utilized TextMeshPro + UnityUI to write, design, and implement the game’s narrative</li>
+  <li>Collaborated closely with two 2D artists and two composer/sound designers to scope out, plan, and ultimately ship the game</li>
+</ul>
+
+<h1 id="placements">Placements</h1>
+<p>Placed 10th in “Originality”…
+Placed 16th in “Gameplay”…
+Placed 20th in “Overall”…</p>
+
+<p>…out of 337 entries.</p>
+
+<h1 id="read-more"><a href="/more-finuxos/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[FinuxOS Video Playthrough]]></summary></entry></feed>

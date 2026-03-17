@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en"><meta http-equiv="Content-Security-Policy" content="default-src 'none';
+connect-src 'self';
+base-uri 'self';
+form-action 'none';
+img-src 'self' https: data:;
+style-src 'self' https://fonts.googleapis.com;
+font-src 'self' https://fonts.gstatic.com data:;
+media-src 'self';
+object-src 'none';
+child-src 'self';
+script-src 'self';" />
+<meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
+<meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="color-scheme" content="dark light">
+  <title>more SORRY, SORRY, SORRY</title><!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="more SORRY, SORRY, SORRY" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever." />
+<meta property="og:description" content="big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever." />
+<link rel="canonical" href="http://localhost:4000/more-sorry-sorry-sorry/" />
+<meta property="og:url" content="http://localhost:4000/more-sorry-sorry-sorry/" />
+<meta property="og:site_name" content="alistair tran" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="more SORRY, SORRY, SORRY" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever.","headline":"more SORRY, SORRY, SORRY","url":"http://localhost:4000/more-sorry-sorry-sorry/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" rel="stylesheet"><link rel="stylesheet" type="text/css" href="/assets/main-light.css"></head>
+<body>
+    <div class="container"><header>
+  <div class="menu">
+    <ul><li>
+          <a href="/">home</a>
+        </li><li>
+          <a href="/about/">about</a>
+        </li><li>
+          <a href="/contact/">contact</a>
+        </li></ul>
+  </div>
+</header>
+<main>
+      <h1 id="designing-for-your-past-self">Designing for Your Past Self</h1>
+<p>A problem I quickly faced while designing this game was that <strong>It’s actually really hard to balance a game that operates on a different time axis.</strong> As in, creating items that played nicely with the time mechanic <em>as well as</em> being a strategic platforming was incredibly difficult.</p>
+
+<p>This meant, we needed lots and lots and lots and lots and lots and lots and lots of <strong>iterative playtesting</strong> and <strong>user feedback</strong>.</p>
+
+<p>The two items I’ll talk about here will be the <strong>glock</strong> and the <strong>bomb.</strong></p>
+
+<p>Let’s see how they both evolved in our playtests.</p>
+
+<p><img src="/images/SORRY,SORRY,SORRY/sorryplaytest1-ezgif.com-cut.gif" alt="Image" /></p>
+
+<p>The glock is a basic turret. It shoots whichever player is closer to it. In its first iteration, the glock had infinite range and could see players through walls.</p>
+
+<p>This was <em>supposed</em> to incentivize players to be very careful where they placed it. It could easily harm themselves as much as their opponent, so I tried to make an item that was very strong so that players could naturally learn what good positioning was when building stages, as well as using some of their own lives to block it.</p>
+
+<p>Yeah that just didn’t go as planned. You can see what players did with the glock up there, they would just stack them to make it as lethal as possible. This would make ending games <em>impossible</em> so something clearly had to change by the next iteration.</p>
+
+<p><img src="/images/SORRY,SORRY,SORRY/sorryplaytest2.gif" alt="Image" /></p>
+
+<p>The glock now has a detection range! And a laser!! No more tracking through walls, no more cross map snipes, no more…oh hold on.</p>
+
+<p>The glock’s firing timer didn’t reset if you left the detection range, so there would be these nightmare cases where you’d be shot either instantly or not at all. Plus, we still have that pesky problem of players making impossible death traps that keep games in stasis.</p>
+
+<p>Not only did the glocks need another nerf, we also needed some way to affect the level state during gameplay. There has to be some more counterplay to these inescapable death traps.</p>
+
+<p>So during one of the post-playtest-surveys, one of my playtesters came up with a lovely idea.</p>
+
+<p>“Why not a bomb?”</p>
+
+<p><img src="/images/SORRY,SORRY,SORRY/sorryplaytest3.gif" alt="Image" /></p>
+
+<p>The bomb, when touched by a player or clone, detonates after a brief period, destroying any other item close to it.</p>
+
+<p>This worked <strong><em>amazingly</em></strong> for this playtest. What would normally be a SAW III trap has now turned into a much more strategic question of “how can pop the bomb to make it to the end?” It causes players to sacrifice lives solely to try to detonate it, and when they get a successful run, they can begin to think of other paths to victory now that they can affect the terrain of the level.</p>
+
+<p>The past was now an axis that players could actually use to their advantage, and <em>that</em> was the game I set out to create.</p>
+
+<p>This game was such a blast to balance and playtest, and I think the game would’ve been impossible to balance without my lovely playtesters.</p>
+
+<h1 id="programming-your-past-self">Programming Your Past Self</h1>
+
+<p>Replay systems are hard. VALORANT took nearly 5000 years to implement theirs, so how could I implement a replay system that could handle <em>hundreds</em> of instances all running at once?</p>
+
+<p><img src="/images/SORRY,SORRY,SORRY/imNOThavingfun.gif" alt="Image" /></p>
+
+<p>Initially, I thought that recording the <em>*position</em> for every life was a good idea. It really, really, really wasn’t. It would  bug out really bad because the PlayerController uses Rigidbodies rather than affecting the Transform itself.</p>
+
+<p>In simple terms, sometimes the recordings would phase through objects. Really takes out a lot of the strategy, no?</p>
+
+<p><img src="/images/SORRY,SORRY,SORRY/imhavingfun.gif" alt="Image" /></p>
+
+<p>So, I ended up taking the route most games do. Instead of actually recording <em>the position</em> of the player, the game would record only the inputs of each life. It would then playback those inputs using the same PlayerController that the players would use, like a ghost connecting another controller and just mimicking the moves of yesterday.</p>
+
+
+    </main><footer>
+  there is always <a href="/more-games/">more...</a>
+</footer>
+</div>
+  </body>
+</html>
