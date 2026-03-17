@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "my first game."
-permalink: /my-first-game/
+permalink: /avht.games/my-first-game/
 ---
 # [my first game.](https://colorplease.itch.io/my-first-game)
 [VIDEO PLAYTHROUGH](https://youtu.be/61mDcs3hhyg)
@@ -13,7 +13,7 @@ Inspired by *“Backwards” from The Beginner’s Guide, MyHouse.wad, and Befor
 
 I sought to make a game about **regretting the present** and **yearning for a past that cannot be returned to.**
 
-![Image](/images/blu,/my first game/myfirstgameclipperton-ezgif.com-optimize.gif)
+!![Image](/avht.games/images/blu,/my first game/myfirstgameclipperton-ezgif.com-optimize.gif)
 
 An independently developed project for the narrative collection: *blu,* with a few contributors here and there.
 

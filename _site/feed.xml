@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-17T15:06:28-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">alistair tran</title><subtitle>big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever.</subtitle><entry><title type="html">Crowd Surfers</title><link href="http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers-copy.html" rel="alternate" type="text/html" title="Crowd Surfers" /><published>2026-01-03T09:40:33-08:00</published><updated>2026-01-03T09:40:33-08:00</updated><id>http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers%20copy</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers-copy.html"><![CDATA[<h1 id="crowd-surfers">Crowd Surfers</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-17T15:11:50-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">alistair tran</title><subtitle>big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever.</subtitle><entry><title type="html">Crowd Surfers</title><link href="http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers-copy.html" rel="alternate" type="text/html" title="Crowd Surfers" /><published>2026-01-03T09:40:33-08:00</published><updated>2026-01-03T09:40:33-08:00</updated><id>http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers%20copy</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers-copy.html"><![CDATA[<h1 id="crowd-surfers">Crowd Surfers</h1>
 <p>ONGOING PROJECT…NO PLAYABLES RIGHT NOW.</p>
 
 <p>“unserious top-down speedrunner”</p>
@@ -37,7 +37,7 @@ HERE’S THE LIST OF GAMES <strong>IN THE COLLECTION</strong>.</p>
   <li>???</li>
 </ol>
 
-<p><img src="/images/blu,/up.jpg" alt="Image" /></p>
+<p>!![Image](/avht.games(/avht.games/images/blu,/up.jpg)</p>
 
 <p>An independently developed project, with a few contributors here and there.</p>
 
@@ -68,8 +68,8 @@ Brought this project to The Experimental Games Showcase at GDC, holding countles
 
 <p>I sought to make a <strong>brutal</strong> game that encouraged people to <strong>empathize and work collaboratively</strong> with their in-game party members and <strong>fellow game developers.</strong></p>
 
-<p><img src="/images/EN ROUTE/TITLE_SLIDE00086405_cropped.png" alt="Image" />
-<img src="/images/EN ROUTE/CHARACTERS00086405_cropped.png" alt="Image" /></p>
+<p>!![Image](/avht.games(/avht.games(/avht.games/images/EN ROUTE/TITLE_SLIDE00086405_cropped.png)
+!![Image](/avht.games(/avht.games(/avht.games(/avht.games(/avht.games(/avht.games/images/EN ROUTE/CHARACTERS00086405_cropped.png)</p>
 
 <p>A game pitched for the <a href="https://gdacollab.com/">Game Design and Art Collaboration</a> at UCSC.</p>
 
@@ -100,7 +100,7 @@ Brought this project to The Experimental Games Showcase at GDC, holding countles
 
 <p>I sought to make a <strong>strategic</strong> game about <strong>adapting</strong> with an evolving game state, and <strong>exploiting your past self.</strong></p>
 
-<p><img src="/images/SORRY,SORRY,SORRY/sorry sorry sorry.gif" alt="Image" /></p>
+<p>!<img src="/avht.games/images/SORRY,SORRY,SORRY/sorry sorry sorry.gif" alt="Image" /></p>
 
 <p>A game made for the game jam:  <a href="https://itch.io/jam/gda-fall-festival-jam">“GDA Fall Festival Jam.”</a> <em>SORRY, SORRY, SORRY</em> is a competitive 2D platformer where you build the level as you play, placing them to either hinder your opponent or secure your victory. Be careful! There seems to be an engine bug where your <strong><em>past lives</em></strong> also want in on the action…</p>
 
@@ -127,7 +127,7 @@ game</li>
 
 <p>I sought to make a <strong>charming</strong> game that took <strong>mundane, everyday tasks</strong> and turned them into <strong>tense and engaging</strong> minigames.</p>
 
-<p><img src="/images/FinuxOS/finuxOS.gif" alt="Image" /></p>
+<p>!<img src="/avht.games/images/FinuxOS/finuxOS.gif" alt="Image" /></p>
 
 <p>A game made for the game jam:  <a href="https://itch.io/jam/black-and-white-jam-8">“Black and White Jam #8↷∞.”</a> <em>FinuxOS</em> is a mini-game working simulator on a virtual desktop, where the player has a list of tasks that they must finish within the day, or face the consequences of a forever looping white-collar hell.</p>
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "more SORRY, SORRY, SORRY"
-permalink: /more-sorry-sorry-sorry/
+permalink: /avht.games/more-sorry-sorry-sorry/
 ---
 # Designing for Your Past Self
 A problem I quickly faced while designing this game was that **It's actually really hard to balance a game that operates on a different time axis.** As in, creating items that played nicely with the time mechanic *as well as* being a strategic platforming was incredibly difficult. 
@@ -12,7 +12,7 @@ The two items I’ll talk about here will be the **glock** and the **bomb.**
 
 Let’s see how they both evolved in our playtests.
 
-![Image](/images/SORRY,SORRY,SORRY/sorryplaytest1-ezgif.com-cut.gif)
+!![Image](/avht.games/images/SORRY,SORRY,SORRY/sorryplaytest1-ezgif.com-cut.gif)
 
 The glock is a basic turret. It shoots whichever player is closer to it. In its first iteration, the glock had infinite range and could see players through walls. 
 
@@ -20,7 +20,7 @@ This was *supposed* to incentivize players to be very careful where they placed 
 
 Yeah that just didn’t go as planned. You can see what players did with the glock up there, they would just stack them to make it as lethal as possible. This would make ending games *impossible* so something clearly had to change by the next iteration.
 
-![Image](/images/SORRY,SORRY,SORRY/sorryplaytest2.gif)
+!![Image](/avht.games/images/SORRY,SORRY,SORRY/sorryplaytest2.gif)
 
 The glock now has a detection range! And a laser!! No more tracking through walls, no more cross map snipes, no more…oh hold on.
 
@@ -32,7 +32,7 @@ So during one of the post-playtest-surveys, one of my playtesters came up with a
 
 “Why not a bomb?”
 
-![Image](/images/SORRY,SORRY,SORRY/sorryplaytest3.gif)
+!![Image](/avht.games/images/SORRY,SORRY,SORRY/sorryplaytest3.gif)
 
 The bomb, when touched by a player or clone, detonates after a brief period, destroying any other item close to it.
 
@@ -46,12 +46,12 @@ This game was such a blast to balance and playtest, and I think the game would�
 
 Replay systems are hard. VALORANT took nearly 5000 years to implement theirs, so how could I implement a replay system that could handle *hundreds* of instances all running at once?
 
-![Image](/images/SORRY,SORRY,SORRY/imNOThavingfun.gif)
+!![Image](/avht.games/images/SORRY,SORRY,SORRY/imNOThavingfun.gif)
 
 Initially, I thought that recording the **position* for every life was a good idea. It really, really, really wasn’t. It would  bug out really bad because the PlayerController uses Rigidbodies rather than affecting the Transform itself. 
 
 In simple terms, sometimes the recordings would phase through objects. Really takes out a lot of the strategy, no?
 
-![Image](/images/SORRY,SORRY,SORRY/imhavingfun.gif)
+!![Image](/avht.games/images/SORRY,SORRY,SORRY/imhavingfun.gif)
 
 So, I ended up taking the route most games do. Instead of actually recording *the position* of the player, the game would record only the inputs of each life. It would then playback those inputs using the same PlayerController that the players would use, like a ghost connecting another controller and just mimicking the moves of yesterday.

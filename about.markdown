@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-![Image](/images/irl_pfp.jpg)
+!![Image](/avht.games/images/irl_pfp.jpg)
 # Alistair Tran
 
 Hello!

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "more EN ROUTE"
-permalink: /more-en-route/
+permalink: /avht.games/more-en-route/
 ---
 # A Really, Really, Really Long Game Of Telephone
 For reference, I’m going to refer to the [Game Design and Art Collaboration](https://gdacollab.com/) as the “GDA” from now on.
@@ -30,7 +30,7 @@ When it all came time for them to convene and show what they’ve done, it was a
 
 So what if we developed a pitch that *forced* these departments to talk to each other? 
 
-![Image](/images/EN ROUTE/CHARACTERS00086405_cropped.png)
+!![Image](/avht.games/images/EN ROUTE/CHARACTERS00086405_cropped.png)
 
 The characters of EN ROUTE demanded something from every department.
 * Designers would design an ability they’d want the player to have in-game (ex. Weapons, movement, healing, etc.)
@@ -39,7 +39,7 @@ The characters of EN ROUTE demanded something from every department.
 * Writers would then write a personality and tiny story for that character (ex. How would a weapon behave?)
 * Sound designers could take the personality, look, and functionality of a character to breathe life into them
 
-![Image](/images/EN ROUTE/unnamed_2_cropped.png)
+!![Image](/avht.games/images/EN ROUTE/unnamed_2_cropped.png)
 
 By making the core components of the game multi-disciplinary, you’re able to encourage multi-disciplinary work. This solves the telephone problem and allows for some really cool designs to be thought up by not just a few people, but a team of people working from each department.
 
@@ -47,7 +47,7 @@ By making the core components of the game multi-disciplinary, you’re able to e
 
 By “both worlds” I mean in-game and in the real world. I previously talked about the lack of teamwork in the first part of this write up and how I designed the game’s mechanics around that, but now let’s get how the narrative plays into all this.
 
-![Image](/images/EN ROUTE/LOVE00086405_cropped.png)
+!![Image](/avht.games/images/EN ROUTE/LOVE00086405_cropped.png)
 
 One of the core pillars of our game was “love.” There was a kind of “bond” mechanic where engaging with a party member’s story, taking care of them, and even using them in combat often was a way to give them upgrades. 
 

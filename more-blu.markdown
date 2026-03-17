@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "more blu,"
-permalink: /more-blu/
+permalink: /avht.games/more-blu/
 ---
 # A Discovery About Tiny Problems
 I wanted a creative outlet to try and explain what I was feeling then. It was a really complex feeling, so complex that I had to boil it down to a bunch of little, tiny, insignificant problems. 
@@ -15,7 +15,7 @@ Imagine a stranger just cutting themselves open, displaying all of their problem
 I needed a way to distance myself and my players from it. I needed a way for players to comfortably bond with the work without the intimacy of my connection to it.
 
 
-![Image](/images/blu,/kait.jpg)
+!![Image](/avht.games/images/blu,/kait.jpg)
 
 So I decided to tell a lie.
 
@@ -23,7 +23,7 @@ I told people that this was a game I found while thrifting. I found a laptop tha
 
 “I’ve been working on restoring this for months, but I still don’t really understand what it means. Do you think you could help me figure it out?”
 
-![Image](/images/blu,/jonah.jpg)
+!![Image](/avht.games/images/blu,/jonah.jpg)
 
 This got **an amazing** reaction out of people. When people sat down to play the game, they became a lot more emotionally invested within the game. Rather than worrying about the lie itself, they were able to step into the real world fantasy that I created for them.
 

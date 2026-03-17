@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "more my first game."
-permalink: /more-my-first-game/
+permalink: /avht.games/more-my-first-game/
 ---
 # Feeling First, Games Later
 The typical advice for narrative design in games is that you should strive to make a game that is *fun* first and then begin weaving a story around it. This is perfectly fine for most games, however *my first game* wasn’t developed for mass market success or being an extremely fun experience. 
@@ -10,7 +10,7 @@ It was designed to tell a story of something that happened to me and to evoke th
 
 I wanted to tell a story about the loneliness that I felt in my first year of college.
 
-![Image](/images/blu,/my first game/Screenshot_2026-03-17_114305_600x337.png)
+!![Image](/avht.games/images/blu,/my first game/Screenshot_2026-03-17_114305_600x337.png)
 
 I did this by splitting up the world into 3 different segments. 
 
@@ -18,7 +18,7 @@ The future is what you see above, outlined to give some semblance of what the me
 
 The present is that white box you see the player in. It has nothing in it, symbolizing the emptiness I felt even during really important “firsts” within my life.
 
-![Image](/images/blu,/my first game/Screenshot_2026-03-17_114835_cropped.png)
+!![Image](/avht.games/images/blu,/my first game/Screenshot_2026-03-17_114835_cropped.png)
 
 And most importantly, the past is a swell of watercolors and beauty to really nail down the rose-tinted glasses we find ourselves looking at past memories with.
 

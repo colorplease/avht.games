@@ -39,7 +39,7 @@ header_pages:
   - about.markdown
   - contact.markdown
 
-footer: 'there is always <a href="/more-games/">more...</a>'
+footer: 'there is always <a href="/avht.games/more-games/">more...</a>'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
