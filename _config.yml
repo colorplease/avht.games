@@ -22,7 +22,7 @@ title: alistair tran
 email: alistairvtran@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "avht.games" # the subpath of your site, e.g. /blog
 url: "https://colorplease.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
