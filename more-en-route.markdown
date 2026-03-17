@@ -15,7 +15,7 @@ Additionally, the writing department was left out of almost every discussion. Wh
 So the question I asked to a bunch of GDA officers when I started this project was: 
 
 
-How much of that miscommunication was the pitch’s fault? 
+How much of that miscommunication was the pitch’s fault?
 
 Surprisingly, a lot. 
 
