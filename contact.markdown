@@ -9,7 +9,7 @@ permalink: /contact/
 # Resume
 
 
-[LinkedIn](https://www.linkedin.com/in/alistair-tran-982992323/)
+[LinkedIn](https://www.linkedin.com/in/avht/)
 [Instagram](https://www.instagram.com/fishcorpgames/?hl=en)
 [Twitter](https://x.com/fishcorpgames)
 [TikTok](https://www.tiktok.com/@northwesternpike)
