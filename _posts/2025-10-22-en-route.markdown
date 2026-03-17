@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "EN ROUTE"
+date:   2025-10-22 10:40:33 -0700
+enddate: 2025-11-17 10:40:33 -0700
+categories: jekyll update
+icon: "/images/EN ROUTE/she sells sea shells on the sea shore.png"
+---
+# EN ROUTE
+THIS WAS A GAME [PITCH](https://drive.google.com/drive/folders/1J46ctG2OtOZIRKvR9qcFSLwN4Vl5pLn9). NO PLAYABLES RIGHT NOW.
+
+“Ever heard of Soul Eater?”
+
+Inspired by *Soul Eater, Fear & Hunger, OFF, and Hyper Light Drifter*
+
+I sought to make a **brutal** game that encouraged people to **empathize and work collaboratively** with their in-game party members and **fellow game developers.**
+
+
+![Image](/images/EN ROUTE/TITLE_SLIDE00086405_cropped.png)
+![Image](/images/EN ROUTE/CHARACTERS00086405_cropped.png)
+
+A game pitched for the [Game Design and Art Collaboration](https://gdacollab.com/) at UCSC. 
+
+Every year, they hold a pitching competition between members of the club in order to pick what game they work on each year. There are 200-300 students within the [Game Design and Art Collaboration](https://gdacollab.com/) and roughly 20-30 pitches are given each year.
+
+*EN ROUTE* is a top-down 2D action adventure RPG. Merging aspects from RPG Maker and action adventure RPGs, every part of your kit is actually a member within your party. Movement, weapons, and abilities are all dictated by what party members you have, and getting to know them better will strengthen their abilities. These “living abilities” are the only things that will keep you alive out there.
+
+# Contributions
+* Vision Holder / Game Lead for the project
+* Interviewed multiple officers to measure pain points within previous project developments (which departments felt underrepresented? which departments felt overworked? communication between departments? etc.)
+* Designed a game geared towards a large scale team, greatly encouraging interdepartmental communication and no one feeling left out
+* Worked closely with artists, composers, writers, designers, and programmers to give them as much creative freedom as possible for potential characters.
+* Collaborated with two 2D artists and one designer to write up 5+ iterations of game design documents and pitch slideshows
+* Designed all of the background artwork and dressing for the pitch slides
+* Pitched to a live audience of 200+ people
+
+# Placements
+2nd Place with 137 votes. We'll get em' next time!!
+
+# [read more...](/more-en-route/)
+
+
+

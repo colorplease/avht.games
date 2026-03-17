@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "FinuxOS"
+date:   2022-04-01 10:40:33 -0700
+enddate: 2022-04-12 10:40:33 -0700
+categories: jekyll update
+icon: "/images/FinuxOS/fishguy.png"
+---
+# [FinuxOS](https://colorplease.itch.io/finuxos)
+[Video Playthrough](https://youtu.be/8DnUWYee8Vg)
+
+“limewire + warioware” - BlabApple
+
+Inspired by *Inscryption, Among Us, Survive The Internet, and Windows 95*
+
+I sought to make a **charming** game that took **mundane, everyday tasks** and turned them into **tense and engaging** minigames.
+
+
+![Image](/images/FinuxOS/finuxOS.gif)
+
+A game made for the game jam:  [“Black and White Jam #8↷∞.”](https://itch.io/jam/black-and-white-jam-8) *FinuxOS* is a mini-game working simulator on a virtual desktop, where the player has a list of tasks that they must finish within the day, or face the consequences of a forever looping white-collar hell. 
+
+# Contributions
+* Vision Holder / Game Lead for the project
+* Designed and programmed all gameplay tasks
+* Utilized Unity’s UI system to implement and design virtual desktop environment
+* Utilized TextMeshPro + UnityUI to write, design, and implement the game’s narrative
+* Collaborated closely with two 2D artists and two composer/sound designers to scope out, plan, and ultimately ship the game
+
+# Placements
+Placed 10th in “Originality”…
+Placed 16th in “Gameplay”...
+Placed 20th in “Overall”...
+
+…out of 337 entries.
+
+# [read more...](/more-finuxos/)
+

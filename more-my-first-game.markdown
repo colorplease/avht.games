@@ -1,0 +1,41 @@
+---
+layout: page
+title:  "more my first game."
+permalink: /more-my-first-game/
+---
+# Feeling First, Games Later
+The typical advice for narrative design in games is that you should strive to make a game that is *fun* first and then begin weaving a story around it. This is perfectly fine for most games, however *my first game* wasn’t developed for mass market success or being an extremely fun experience. 
+
+It was designed to tell a story of something that happened to me and to evoke the same emotions I felt within other people.
+
+I wanted to tell a story about the loneliness that I felt in my first year of college.
+
+![Image](/images/blu,/my first game/Screenshot_2026-03-17_114305_600x337.png)
+
+I did this by splitting up the world into 3 different segments. 
+
+The future is what you see above, outlined to give some semblance of what the memory might be. It’s uncertain, drab, and ultimately not worth looking at too much.
+
+The present is that white box you see the player in. It has nothing in it, symbolizing the emptiness I felt even during really important “firsts” within my life.
+
+![Image](/images/blu,/my first game/Screenshot_2026-03-17_114835_cropped.png)
+
+And most importantly, the past is a swell of watercolors and beauty to really nail down the rose-tinted glasses we find ourselves looking at past memories with.
+
+Through this splitting, I was able to somewhat express how I thought I was feeling at the time. I felt that the future was drab and basically just amounted to telling me what was to come. I thought the present was empty, even in the best of times. And ultimately, I thought the past was full of life and color. I thought that it was the only place I wanted to be.
+
+So then I made it a “tragedy” to limit the player into being unable to move backwards. The most beautiful and interesting thing about the game was locked away from the player. Time keeps moving forward, and you can’t change the past no matter how hard you try.
+
+# Fake Developer Insight
+A made-up story I would tell people about this game is that when I was “restoring” it, I could never seem to get the player controller fully working.
+
+I told them that I didn’t know why the player couldn’t move backwards, and that I was super stressed about not being able to get it to work.
+
+This of course, was to illicit a response from players about *artist intention.* They told me that not being able to move backwards was a beautiful artistic choice about how humans cannot change the past, and that the player needs to keep moving forward.
+
+This would ultimately spiral into really long conversations about the game and past experiences, with players giving much more insight into their own lives and relatability to this game, simply because of that developer insight and the disconnection from the art to the artist.
+
+It made everything feel so much more personal. For *blu,* I hope to do more real world storytelling just like this.
+
+
+

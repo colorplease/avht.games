@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "blu,"
+date:   2026-1-1 10:40:33 -0700
+enddate: "ongoing"
+categories: jekyll update
+icon: "/images/blu,/blu time.png"
+icon2: /images/blu,/my first game/woodenguy.png
+---
+# blu,
+[STEAM PAGE](https://store.steampowered.com/app/3895850/blu/). NO PLAYABLES RIGHT NOW.
+
+“A game about a collection of games that aren’t mine.”
+
+Inspired by *The Beginner’s Guide, Haunted PS1 Demo Disc, Inscryption, and Monogatari Series*
+
+I sought to make a collection of games about things that **ultimately aren’t too important.** I wanted tiny problems that everyone goes through to feel big, and comfort those who are currently grappling with **these tiny tiny problems**.
+
+THIS IS A PAGE ABOUT THE **COLLECTION OF GAMES ITSELF.**
+HERE’S THE LIST OF GAMES **IN THE COLLECTION**.
+
+1. [ 2026-01-01 / 2026-02-06 ] [my first game.](/my-first-game/) <img src="/images/blu,/my first game/woodenguy.png" align="center">
+2. [ 2026-02-10 / ongoing ] Leap Day (wip...)
+3. ???
+
+
+![Image](/images/blu,/up.jpg)
+
+An independently developed project, with a few contributors here and there.
+
+*blu,* is a narrative game about a collection of games that don’t belong to its creator. The game takes place in a museum, where the player is guided through 12 mysterious games that were “found” on an abandoned laptop.
+
+It serves as a social experiment on how much more an audience will **relate and bond** to a collection of art when separated from its author.
+
+*blu,* not only presents the story found within the collection of games it presents, but also a story about the person who curated all of them together.
+
+![Image](/images/blu,/tape.jpg)
+
+
+# Contributions
+* Vision Holder / Game Lead for the project
+* Designed all of the games within the collection
+* Programmed all of the games within the collection
+* Wrote for all of the games within the collection
+Collaborated with artists and composers to nail down the visual/audio style for each of the stories of the collections
+Brought this project to The Experimental Games Showcase at GDC, holding countless playtests and collaborating with fellow narrative designers on nailing down the story
+
+
+
+# [read more...](/more-blu/)
+
+
+
