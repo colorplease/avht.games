@@ -4,8 +4,8 @@ title:  "blu,"
 date:   2026-1-1 10:40:33 -0700
 enddate: "ongoing"
 categories: jekyll update
-icon: "/images/blu,/blu time.png"
-icon2: /images/blu,/my first game/woodenguy.png
+icon: "/avht.games/images/blu,/blu time.png"
+icon2: /avht.games/images/blu,/my first game/woodenguy.png
 ---
 # blu,
 [STEAM PAGE](https://store.steampowered.com/app/3895850/blu/). NO PLAYABLES RIGHT NOW.
@@ -19,12 +19,12 @@ I sought to make a collection of games about things that **ultimately aren’t t
 THIS IS A PAGE ABOUT THE **COLLECTION OF GAMES ITSELF.**
 HERE’S THE LIST OF GAMES **IN THE COLLECTION**.
 
-1. [ 2026-01-01 / 2026-02-06 ] [my first game.](/my-first-game/) <img src="/images/blu,/my first game/woodenguy.png" align="center">
+1. [ 2026-01-01 / 2026-02-06 ] [my first game.](/avht.games/my-first-game/) <img src="/avht.games/images/blu,/my first game/woodenguy.png" align="center">
 2. [ 2026-02-10 / ongoing ] Leap Day (wip...)
 3. ???
 
 
-!![Image](/avht.games(/avht.games/images/blu,/up.jpg)
+!![Image](/avht.games/avht.games/images/blu,/up.jpg)
 
 An independently developed project, with a few contributors here and there.
 
@@ -34,7 +34,7 @@ It serves as a social experiment on how much more an audience will **relate and 
 
 *blu,* not only presents the story found within the collection of games it presents, but also a story about the person who curated all of them together.
 
-![Image](/images/blu,/tape.jpg)
+![Image](/avht.games/images/blu,/tape.jpg)
 
 
 # Contributions
@@ -47,7 +47,7 @@ Brought this project to The Experimental Games Showcase at GDC, holding countles
 
 
 
-# [read more...](/more-blu/)
+# [read more...](/avht.games/more-blu/)
 
 
 

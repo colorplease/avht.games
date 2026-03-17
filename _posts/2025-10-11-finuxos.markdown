@@ -4,7 +4,7 @@ title:  "FinuxOS"
 date:   2022-04-01 10:40:33 -0700
 enddate: 2022-04-12 10:40:33 -0700
 categories: jekyll update
-icon: "/images/FinuxOS/fishguy.png"
+icon: "/avht.games/images/FinuxOS/fishguy.png"
 ---
 # [FinuxOS](https://colorplease.itch.io/finuxos)
 [Video Playthrough](https://youtu.be/8DnUWYee8Vg)
@@ -34,5 +34,5 @@ Placed 20th in “Overall”...
 
 …out of 337 entries.
 
-# [read more...](/more-finuxos/)
+# [read more...](/avht.games/more-finuxos/)
 

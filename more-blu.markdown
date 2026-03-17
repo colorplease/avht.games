@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "more blu,"
-permalink: /avht.games/more-blu/
+permalink: /more-blu/
 ---
 # A Discovery About Tiny Problems
 I wanted a creative outlet to try and explain what I was feeling then. It was a really complex feeling, so complex that I had to boil it down to a bunch of little, tiny, insignificant problems. 

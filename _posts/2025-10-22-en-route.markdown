@@ -4,7 +4,7 @@ title:  "EN ROUTE"
 date:   2025-10-22 10:40:33 -0700
 enddate: 2025-11-17 10:40:33 -0700
 categories: jekyll update
-icon: "/images/EN ROUTE/she sells sea shells on the sea shore.png"
+icon: "/avht.games/images/EN ROUTE/she sells sea shells on the sea shore.png"
 ---
 # EN ROUTE
 THIS WAS A GAME [PITCH](https://drive.google.com/drive/folders/1J46ctG2OtOZIRKvR9qcFSLwN4Vl5pLn9). NO PLAYABLES RIGHT NOW.
@@ -16,8 +16,8 @@ Inspired by *Soul Eater, Fear & Hunger, OFF, and Hyper Light Drifter*
 I sought to make a **brutal** game that encouraged people to **empathize and work collaboratively** with their in-game party members and **fellow game developers.**
 
 
-!![Image](/avht.games(/avht.games(/avht.games/images/EN ROUTE/TITLE_SLIDE00086405_cropped.png)
-!![Image](/avht.games(/avht.games(/avht.games(/avht.games(/avht.games(/avht.games/images/EN ROUTE/CHARACTERS00086405_cropped.png)
+!![Image](/avht.games/images/EN ROUTE/TITLE_SLIDE00086405_cropped.png)
+!![Image](/avht.games/avht.games/images/EN ROUTE/CHARACTERS00086405_cropped.png)
 
 A game pitched for the [Game Design and Art Collaboration](https://gdacollab.com/) at UCSC. 
 
@@ -37,7 +37,7 @@ Every year, they hold a pitching competition between members of the club in orde
 # Placements
 2nd Place with 137 votes. We'll get em' next time!!
 
-# [read more...](/more-en-route/)
+# [read more...](/avht.games/more-en-route/)
 
 
 

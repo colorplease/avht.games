@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "more games"
-permalink: /avht.games/more-games/
+permalink: /more-games/
 ---
 # here are more of my projects! 
 I'll do full write-ups on them eventually...

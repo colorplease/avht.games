@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "more my first game."
-permalink: /avht.games/more-my-first-game/
+permalink: /more-my-first-game/
 ---
 # Feeling First, Games Later
 The typical advice for narrative design in games is that you should strive to make a game that is *fun* first and then begin weaving a story around it. This is perfectly fine for most games, however *my first game* wasn’t developed for mass market success or being an extremely fun experience. 

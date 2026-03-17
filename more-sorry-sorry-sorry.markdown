@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "more SORRY, SORRY, SORRY"
-permalink: /avht.games/more-sorry-sorry-sorry/
+permalink: /more-sorry-sorry-sorry/
 ---
 # Designing for Your Past Self
 A problem I quickly faced while designing this game was that **It's actually really hard to balance a game that operates on a different time axis.** As in, creating items that played nicely with the time mechanic *as well as* being a strategic platforming was incredibly difficult. 

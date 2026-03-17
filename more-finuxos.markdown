@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "more FinuxOS"
-permalink: /avht.games/more-finuxos/
+permalink: /more-finuxos/
 ---
 # Turning “boring & mundane” into “tense & engaging”
 I worked with the team to brainstorm a list of everyday office tasks that we could do a creative spin on for the minigames, as well as an interview with my dad who worked white collar office work.

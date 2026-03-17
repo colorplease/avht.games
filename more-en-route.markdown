@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "more EN ROUTE"
-permalink: /avht.games/more-en-route/
+permalink: /more-en-route/
 ---
 # A Really, Really, Really Long Game Of Telephone
 For reference, I’m going to refer to the [Game Design and Art Collaboration](https://gdacollab.com/) as the “GDA” from now on.

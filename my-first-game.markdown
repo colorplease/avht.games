@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "my first game."
-permalink: /avht.games/my-first-game/
+permalink: /my-first-game/
 ---
 # [my first game.](https://colorplease.itch.io/my-first-game)
 [VIDEO PLAYTHROUGH](https://youtu.be/61mDcs3hhyg)
@@ -34,6 +34,6 @@ Since this a game from *blu,* this game is advertised to people as not being dev
 * Integrated a chapter-based, dynamic music system for the project that integrated with key parts within the script
 * Held countless playtests of this project at the Game Design and Art Collaboration Conference, GDC Experimental Games Showcase, and UCSC Portfolio Showcases
 
-# [read more...](/more-my-first-game/)
+# [read more...](/avht.games/more-my-first-game/)
 
 

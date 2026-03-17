@@ -4,7 +4,7 @@ title:  "SORRY, SORRY, SORRY"
 date:   2025-10-11 10:40:33 -0700
 enddate: 2025-10-19 10:40:33 -0700
 categories: jekyll update
-icon: "/images/SORRY,SORRY,SORRY/sorryguy.png"
+icon: "/avht.games/images/SORRY,SORRY,SORRY/sorryguy.png"
 ---
 # [SORRY, SORRY, SORRY](https://colorplease.github.io/sorry-sorry-sorry-web/)
 [Video Playthrough](https://youtu.be/hIr7dzAoFH0)
@@ -32,5 +32,5 @@ game
 # Placements
 wasn't a ranked jam :(
 
-# [read more...](/more-sorry-sorry-sorry/)
+# [read more...](/avht.games/more-sorry-sorry-sorry/)
 
