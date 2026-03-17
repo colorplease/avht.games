@@ -4,7 +4,7 @@ title: contact
 permalink: /contact/
 ---
 
-!![Image](/avht.games/images/ghetti.gif)
+![Image](/avht.games/images/ghetti.gif)
 
 # Resume
 

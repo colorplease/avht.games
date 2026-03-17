@@ -16,7 +16,7 @@ Inspired by *Ultimate Chicken Horse, Quantum League, Celeste, and Give Up*
 I sought to make a **strategic** game about **adapting** with an evolving game state, and **exploiting your past self.**
 
 
-!![Image](/avht.games/images/SORRY,SORRY,SORRY/sorry sorry sorry.gif)
+![Image](/avht.games/images/SORRY,SORRY,SORRY/sorry sorry sorry.gif)
 
 A game made for the game jam:  [“GDA Fall Festival Jam.”](https://itch.io/jam/gda-fall-festival-jam) *SORRY, SORRY, SORRY* is a competitive 2D platformer where you build the level as you play, placing them to either hinder your opponent or secure your victory. Be careful! There seems to be an engine bug where your ***past lives*** also want in on the action…
 

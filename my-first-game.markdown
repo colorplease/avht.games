@@ -13,7 +13,7 @@ Inspired by *“Backwards” from The Beginner’s Guide, MyHouse.wad, and Befor
 
 I sought to make a game about **regretting the present** and **yearning for a past that cannot be returned to.**
 
-!![Image](/avht.games/images/blu,/my first game/myfirstgameclipperton-ezgif.com-optimize.gif)
+![Image](/avht.games/images/blu,/my first game/myfirstgameclipperton-ezgif.com-optimize.gif)
 
 An independently developed project for the narrative collection: *blu,* with a few contributors here and there.
 

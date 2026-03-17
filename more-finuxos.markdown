@@ -10,7 +10,7 @@ The common consensus, however, was that **office jobs were boring** and slamming
 
 A task I’d like to highlight as a good example of that “creative spin” was **emptying the recycle bin.**
 
-!![Image](/avht.games/images/FinuxOS/recycle.gif)
+![Image](/avht.games/images/FinuxOS/recycle.gif)
 
 I took quite the literal approach to reimagining the task. I thought “what if you were actually taking out the recycling / garbage on your computer? What would that look like?” 
 
@@ -24,7 +24,7 @@ I had a certain playstyle in mind where the player would have multiple tasks ope
 
 Ok but, *how* exactly can multitasking be implemented? With a virtual operating system of course!
 
-!![Image](/avht.games/images/FinuxOS/fictionalOS.gif)
+![Image](/avht.games/images/FinuxOS/fictionalOS.gif)
 
 The window system was mainly implemented using UnityUI, there’s a lot of support for doing draggable windows with UI elements already baked into UnityUI. 
 
@@ -38,4 +38,4 @@ A fictional operating system? What narrative possibilities could that open up to
 
 The player is constantly under surveillance by a “big brother” kind of system that is grading them on their performance. The virtual desktop allowed the immersion of this to be explored even further. I really wanted it to feel like you were being watched.
 
-!![Image](/avht.games/images/FinuxOS/instructFin.png)
+![Image](/avht.games/images/FinuxOS/instructFin.png)

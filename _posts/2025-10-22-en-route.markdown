@@ -16,8 +16,8 @@ Inspired by *Soul Eater, Fear & Hunger, OFF, and Hyper Light Drifter*
 I sought to make a **brutal** game that encouraged people to **empathize and work collaboratively** with their in-game party members and **fellow game developers.**
 
 
-!![Image](/avht.games/images/EN ROUTE/TITLE_SLIDE00086405_cropped.png)
-!![Image](/avht.games/avht.games/images/EN ROUTE/CHARACTERS00086405_cropped.png)
+![Image](/avht.games/images/EN ROUTE/TITLE_SLIDE00086405_cropped.png)
+![Image](/avht.games/avht.games/images/EN ROUTE/CHARACTERS00086405_cropped.png)
 
 A game pitched for the [Game Design and Art Collaboration](https://gdacollab.com/) at UCSC. 
 
