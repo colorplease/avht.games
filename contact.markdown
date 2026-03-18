@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 ![Image](/avht.games/images/aura.png)
 
-# [CV]
+# [Curriculum Vitae](/avht.games/images/Alistair Tran - Resume Official.pdf)
 
 
 [LinkedIn](https://www.linkedin.com/in/avht/)
