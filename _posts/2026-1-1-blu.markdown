@@ -43,7 +43,7 @@ It serves as a social experiment on how much more an audience will **relate and 
 * Programmed all of the games within the collection
 * Wrote for all of the games within the collection
 Collaborated with artists and composers to nail down the visual/audio style for each of the stories of the collections
-Brought this project to The Experimental Games Showcase at GDC, holding countless playtests and collaborating with fellow narrative designers on nailing down the story
+* Brought this project to The Experimental Games Showcase at GDC, holding countless playtests and collaborating with fellow narrative designers on nailing down the story
 
 
 
