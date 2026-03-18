@@ -15,7 +15,7 @@ ONGOING PROJECT…NO PLAYABLES RIGHT NOW.
 
 Inspired by *Jet Set Radio, Lethal League, Neon White, and Speedrunners*
 
-I sought to be a **productive** programming producer, making sure programmers **communicated with each other** and ultimately **kept the project pushing.**
+I strive to be a **productive** programming producer, making sure programmers **communicated with each other** to support cross developmental production in a timely manner.
 
 
 ![Image](/avht.games/images/Crowd Surfers/unnamed (1) (2).png)
