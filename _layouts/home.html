@@ -11,8 +11,11 @@ layout: default
     <li>
       {%- assign date_format = "%Y-%m-%d" -%}
       [ {{ post.date | date: date_format }} / {{post.enddate | date: date_format}} ] <a href="{{ post.url | relative_url }}"> {{ post.title | escape }}</a> <img src="{{post.icon}}" align="center"> <img src="{{post.icon2}}" align="center">  <i>{{ post.position }} </i>
-    </li>
-    
+    <p> </p>
+    <img src="{{post.thumbnail}}" align="center">
+    <img src="{{post.thumbnail2}}" align="center">
+    <p> </p>
+  </li>
     {%- endfor -%}
   </ul>
 {%- endif -%}

@@ -6,6 +6,8 @@ enddate: "ongoing"
 categories: jekyll update
 icon: "/avht.games/images/blu,/blu time.png"
 icon2: /avht.games/images/blu,/my first game/woodenguy.png
+thumbnail: "/avht.games/images/blu,/up.jpg"
+thumbnail2: "/avht.games/images/blu,/my first game/myfirstgameclipperton-ezgif.com-optimize.gif"
 position: "narrative, game design"
 ---
 # blu,

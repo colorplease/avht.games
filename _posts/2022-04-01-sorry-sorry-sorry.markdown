@@ -5,6 +5,7 @@ date:   2025-10-11 10:40:33 -0700
 enddate: 2025-10-19 10:40:33 -0700
 categories: jekyll update
 icon: "/avht.games/images/SORRY,SORRY,SORRY/sorryguy.png"
+thumbnail: "/avht.games/images/SORRY,SORRY,SORRY/sorry sorry sorry.gif"
 position: "game design, programming"
 ---
 # [SORRY, SORRY, SORRY](https://colorplease.github.io/sorry-sorry-sorry-web/)
