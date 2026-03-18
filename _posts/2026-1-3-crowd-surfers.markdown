@@ -5,6 +5,7 @@ date:   2026-1-3 10:40:33 -0700
 enddate: "ongoing"
 categories: jekyll update
 icon: "/avht.games/images/Crowd Surfers/sliplingcrushed.png"
+position: "project management, programming"
 ---
 # Crowd Surfers
 ONGOING PROJECT…NO PLAYABLES RIGHT NOW.

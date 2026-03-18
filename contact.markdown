@@ -4,9 +4,7 @@ title: contact
 permalink: /contact/
 ---
 
-![Image](/avht.games/images/ghetti.gif)
-
-# Resume
+# [CV]
 
 
 [LinkedIn](https://www.linkedin.com/in/avht/)

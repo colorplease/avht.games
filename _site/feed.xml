@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-17T15:11:50-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">alistair tran</title><subtitle>big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever.</subtitle><entry><title type="html">Crowd Surfers</title><link href="http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers-copy.html" rel="alternate" type="text/html" title="Crowd Surfers" /><published>2026-01-03T09:40:33-08:00</published><updated>2026-01-03T09:40:33-08:00</updated><id>http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers%20copy</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2026/01/03/crowd-surfers-copy.html"><![CDATA[<h1 id="crowd-surfers">Crowd Surfers</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/avht.games/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/avht.games/" rel="alternate" type="text/html" /><updated>2026-03-17T21:05:01-07:00</updated><id>http://localhost:4000/avht.games/feed.xml</id><title type="html">alistair tran</title><subtitle>big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever.</subtitle><entry><title type="html">Crowd Surfers</title><link href="http://localhost:4000/avht.games/jekyll/update/2026/01/03/crowd-surfers.html" rel="alternate" type="text/html" title="Crowd Surfers" /><published>2026-01-03T09:40:33-08:00</published><updated>2026-01-03T09:40:33-08:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2026/01/03/crowd-surfers</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2026/01/03/crowd-surfers.html"><![CDATA[<h1 id="crowd-surfers">Crowd Surfers</h1>
 <p>ONGOING PROJECT…NO PLAYABLES RIGHT NOW.</p>
 
 <p>“unserious top-down speedrunner”</p>
@@ -7,8 +7,8 @@
 
 <p>I sought to be a <strong>productive</strong> programming producer, making sure programmers <strong>communicated with each other</strong> and ultimately <strong>kept the project pushing.</strong></p>
 
-<p><img src="/images/Crowd Surfers/unnamed (1) (2).png" alt="Image" />
-<img src="/images/Crowd Surfers/crowd surfers.gif" alt="Image" /></p>
+<p><img src="/avht.games/images/Crowd Surfers/unnamed (1) (2).png" alt="Image" />
+<img src="/avht.games/images/Crowd Surfers/crowd surfers.gif" alt="Image" /></p>
 
 <p>A game made by the <a href="https://gdacollab.com/">Game Design and Art Collaboration</a> at UCSC. Crowd Surfers is a dynamic momentum-based top-down speedrunner. A young pizza delivery guy with bills to pay must dash, stomp, and glide over obstacles in order to deliver pizza on time!</p>
 
@@ -19,7 +19,7 @@
   <li>Engaged in a SCRUM based sprint system and worked closely with other producers to maintain course throughout production</li>
   <li>Designed basic system architecture for early production, later delegating tasks and overseeing iterations</li>
   <li>Communicated with other departments, such as sound, art, and design, to relay pain points in production and delegate tool development tasks for smoother production</li>
-</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Crowd Surfers ONGOING PROJECT…NO PLAYABLES RIGHT NOW.]]></summary></entry><entry><title type="html">blu,</title><link href="http://localhost:4000/jekyll/update/2026/01/01/blu.html" rel="alternate" type="text/html" title="blu," /><published>2026-01-01T09:40:33-08:00</published><updated>2026-01-01T09:40:33-08:00</updated><id>http://localhost:4000/jekyll/update/2026/01/01/blu</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2026/01/01/blu.html"><![CDATA[<h1 id="blu">blu,</h1>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Crowd Surfers ONGOING PROJECT…NO PLAYABLES RIGHT NOW.]]></summary></entry><entry><title type="html">blu,</title><link href="http://localhost:4000/avht.games/jekyll/update/2026/01/01/blu.html" rel="alternate" type="text/html" title="blu," /><published>2026-01-01T09:40:33-08:00</published><updated>2026-01-01T09:40:33-08:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2026/01/01/blu</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2026/01/01/blu.html"><![CDATA[<h1 id="blu">blu,</h1>
 <p><a href="https://store.steampowered.com/app/3895850/blu/">STEAM PAGE</a>. NO PLAYABLES RIGHT NOW.</p>
 
 <p>“A game about a collection of games that aren’t mine.”</p>
@@ -32,12 +32,12 @@
 HERE’S THE LIST OF GAMES <strong>IN THE COLLECTION</strong>.</p>
 
 <ol>
-  <li>[ 2026-01-01 / 2026-02-06 ] <a href="/my-first-game/">my first game.</a> <img src="/images/blu,/my first game/woodenguy.png" align="center" /></li>
+  <li>[ 2026-01-01 / 2026-02-06 ] <a href="/avht.games/my-first-game/">my first game.</a> <img src="/avht.games/images/blu,/my first game/woodenguy.png" align="center" /></li>
   <li>[ 2026-02-10 / ongoing ] Leap Day (wip…)</li>
   <li>???</li>
 </ol>
 
-<p>![Image](/avht.games(/avht.games/images/blu,/up.jpg)</p>
+<p><img src="/avht.games/images/blu,/up.jpg" alt="Image" /></p>
 
 <p>An independently developed project, with a few contributors here and there.</p>
 
@@ -47,7 +47,7 @@ HERE’S THE LIST OF GAMES <strong>IN THE COLLECTION</strong>.</p>
 
 <p><em>blu,</em> not only presents the story found within the collection of games it presents, but also a story about the person who curated all of them together.</p>
 
-<p><img src="/images/blu,/tape.jpg" alt="Image" /></p>
+<p><img src="/avht.games/images/blu,/tape.jpg" alt="Image" /></p>
 
 <h1 id="contributions">Contributions</h1>
 <ul>
@@ -55,11 +55,11 @@ HERE’S THE LIST OF GAMES <strong>IN THE COLLECTION</strong>.</p>
   <li>Designed all of the games within the collection</li>
   <li>Programmed all of the games within the collection</li>
   <li>Wrote for all of the games within the collection
-Collaborated with artists and composers to nail down the visual/audio style for each of the stories of the collections
-Brought this project to The Experimental Games Showcase at GDC, holding countless playtests and collaborating with fellow narrative designers on nailing down the story</li>
+Collaborated with artists and composers to nail down the visual/audio style for each of the stories of the collections</li>
+  <li>Brought this project to The Experimental Games Showcase at GDC, holding countless playtests and collaborating with fellow narrative designers on nailing down the story</li>
 </ul>
 
-<h1 id="read-more"><a href="/more-blu/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[blu, STEAM PAGE. NO PLAYABLES RIGHT NOW.]]></summary></entry><entry><title type="html">EN ROUTE</title><link href="http://localhost:4000/jekyll/update/2025/10/22/en-route.html" rel="alternate" type="text/html" title="EN ROUTE" /><published>2025-10-22T10:40:33-07:00</published><updated>2025-10-22T10:40:33-07:00</updated><id>http://localhost:4000/jekyll/update/2025/10/22/en-route</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/10/22/en-route.html"><![CDATA[<h1 id="en-route">EN ROUTE</h1>
+<h1 id="read-more"><a href="/avht.games/more-blu/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[blu, STEAM PAGE. NO PLAYABLES RIGHT NOW.]]></summary></entry><entry><title type="html">EN ROUTE</title><link href="http://localhost:4000/avht.games/jekyll/update/2025/10/22/en-route.html" rel="alternate" type="text/html" title="EN ROUTE" /><published>2025-10-22T10:40:33-07:00</published><updated>2025-10-22T10:40:33-07:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2025/10/22/en-route</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2025/10/22/en-route.html"><![CDATA[<h1 id="en-route">EN ROUTE</h1>
 <p>THIS WAS A GAME <a href="https://drive.google.com/drive/folders/1J46ctG2OtOZIRKvR9qcFSLwN4Vl5pLn9">PITCH</a>. NO PLAYABLES RIGHT NOW.</p>
 
 <p>“Ever heard of Soul Eater?”</p>
@@ -68,8 +68,8 @@ Brought this project to The Experimental Games Showcase at GDC, holding countles
 
 <p>I sought to make a <strong>brutal</strong> game that encouraged people to <strong>empathize and work collaboratively</strong> with their in-game party members and <strong>fellow game developers.</strong></p>
 
-<p>![Image](/avht.games(/avht.games(/avht.games/images/EN ROUTE/TITLE_SLIDE00086405_cropped.png)
-![Image](/avht.games(/avht.games(/avht.games(/avht.games(/avht.games(/avht.games/images/EN ROUTE/CHARACTERS00086405_cropped.png)</p>
+<p><img src="/avht.games/images/EN ROUTE/TITLE_SLIDE00086405_cropped.png" alt="Image" />
+<img src="/avht.games/images/EN ROUTE/CHARACTERS00086405_cropped.png" alt="Image" /></p>
 
 <p>A game pitched for the <a href="https://gdacollab.com/">Game Design and Art Collaboration</a> at UCSC.</p>
 
@@ -89,9 +89,9 @@ Brought this project to The Experimental Games Showcase at GDC, holding countles
 </ul>
 
 <h1 id="placements">Placements</h1>
-<p>2nd Place with 137 votes. We’ll get em’ next time!</p>
+<p>2nd Place with 137 votes. We’ll get em’ next time!!</p>
 
-<h1 id="read-more"><a href="/more-en-route/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[EN ROUTE THIS WAS A GAME PITCH. NO PLAYABLES RIGHT NOW.]]></summary></entry><entry><title type="html">SORRY, SORRY, SORRY</title><link href="http://localhost:4000/jekyll/update/2025/10/11/sorry-sorry-sorry.html" rel="alternate" type="text/html" title="SORRY, SORRY, SORRY" /><published>2025-10-11T10:40:33-07:00</published><updated>2025-10-11T10:40:33-07:00</updated><id>http://localhost:4000/jekyll/update/2025/10/11/sorry-sorry-sorry</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/10/11/sorry-sorry-sorry.html"><![CDATA[<h1 id="sorry-sorry-sorry"><a href="https://colorplease.github.io/sorry-sorry-sorry-web/">SORRY, SORRY, SORRY</a></h1>
+<h1 id="read-more"><a href="/avht.games/more-en-route/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[EN ROUTE THIS WAS A GAME PITCH. NO PLAYABLES RIGHT NOW.]]></summary></entry><entry><title type="html">SORRY, SORRY, SORRY</title><link href="http://localhost:4000/avht.games/jekyll/update/2025/10/11/sorry-sorry-sorry.html" rel="alternate" type="text/html" title="SORRY, SORRY, SORRY" /><published>2025-10-11T10:40:33-07:00</published><updated>2025-10-11T10:40:33-07:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2025/10/11/sorry-sorry-sorry</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2025/10/11/sorry-sorry-sorry.html"><![CDATA[<h1 id="sorry-sorry-sorry"><a href="https://colorplease.github.io/sorry-sorry-sorry-web/">SORRY, SORRY, SORRY</a></h1>
 <p><a href="https://youtu.be/hIr7dzAoFH0">Video Playthrough</a></p>
 
 <p>“Ultimate Chicken Horse but you have a cloning time machine”</p>
@@ -118,7 +118,7 @@ game</li>
 <h1 id="placements">Placements</h1>
 <p>wasn’t a ranked jam :(</p>
 
-<h1 id="read-more"><a href="/more-sorry-sorry-sorry/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[SORRY, SORRY, SORRY Video Playthrough]]></summary></entry><entry><title type="html">FinuxOS</title><link href="http://localhost:4000/jekyll/update/2022/04/01/finuxos.html" rel="alternate" type="text/html" title="FinuxOS" /><published>2022-04-01T10:40:33-07:00</published><updated>2022-04-01T10:40:33-07:00</updated><id>http://localhost:4000/jekyll/update/2022/04/01/finuxos</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/01/finuxos.html"><![CDATA[<h1 id="finuxos"><a href="https://colorplease.itch.io/finuxos">FinuxOS</a></h1>
+<h1 id="read-more"><a href="/avht.games/more-sorry-sorry-sorry/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[SORRY, SORRY, SORRY Video Playthrough]]></summary></entry><entry><title type="html">FinuxOS</title><link href="http://localhost:4000/avht.games/jekyll/update/2022/04/01/finuxos.html" rel="alternate" type="text/html" title="FinuxOS" /><published>2022-04-01T10:40:33-07:00</published><updated>2022-04-01T10:40:33-07:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2022/04/01/finuxos</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2022/04/01/finuxos.html"><![CDATA[<h1 id="finuxos"><a href="https://colorplease.itch.io/finuxos">FinuxOS</a></h1>
 <p><a href="https://youtu.be/8DnUWYee8Vg">Video Playthrough</a></p>
 
 <p>“limewire + warioware” - BlabApple</p>
@@ -127,7 +127,7 @@ game</li>
 
 <p>I sought to make a <strong>charming</strong> game that took <strong>mundane, everyday tasks</strong> and turned them into <strong>tense and engaging</strong> minigames.</p>
 
-<p>!<img src="/avht.games/images/FinuxOS/finuxOS.gif" alt="Image" /></p>
+<p><img src="/avht.games/images/FinuxOS/finuxOS.gif" alt="Image" /></p>
 
 <p>A game made for the game jam:  <a href="https://itch.io/jam/black-and-white-jam-8">“Black and White Jam #8↷∞.”</a> <em>FinuxOS</em> is a mini-game working simulator on a virtual desktop, where the player has a list of tasks that they must finish within the day, or face the consequences of a forever looping white-collar hell.</p>
 
@@ -147,4 +147,4 @@ Placed 20th in “Overall”…</p>
 
 <p>…out of 337 entries.</p>
 
-<h1 id="read-more"><a href="/more-finuxos/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[FinuxOS Video Playthrough]]></summary></entry></feed>
+<h1 id="read-more"><a href="/avht.games/more-finuxos/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[FinuxOS Video Playthrough]]></summary></entry></feed>

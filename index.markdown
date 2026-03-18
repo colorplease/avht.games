@@ -6,8 +6,8 @@ layout: home
 title: home
 ---
 
-# alistair tran - games portfolio
-games + narrative designer, unity programmer, and creative collaborator with 7+ years experience making games.
+# Alistair Tran - Narrative Designer
+Hello! I'm a games + narrative designer, Unity programmer, and creative collaborator with 7+ years experience making games.
 
 
 # projects

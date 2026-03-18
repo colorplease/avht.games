@@ -6,6 +6,7 @@ enddate: "ongoing"
 categories: jekyll update
 icon: "/avht.games/images/blu,/blu time.png"
 icon2: /avht.games/images/blu,/my first game/woodenguy.png
+position: "narrative, game design"
 ---
 # blu,
 [STEAM PAGE](https://store.steampowered.com/app/3895850/blu/). NO PLAYABLES RIGHT NOW.
