@@ -7,7 +7,7 @@ title: home
 ---
 
 # Alistair Tran - Narrative Designer
-Hello! I'm a games + narrative designer, Unity programmer, and creative collaborator with 7+ years experience making games.
+Hello! I'm a games + narrative designer, Unity + Godot programmer, and creative collaborator with 8+ years experience making games.
 
 
 # projects

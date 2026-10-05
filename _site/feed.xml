@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/avht.games/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/avht.games/" rel="alternate" type="text/html" /><updated>2026-03-18T01:43:59-07:00</updated><id>http://localhost:4000/avht.games/feed.xml</id><title type="html">alistair tran</title><subtitle>big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever.</subtitle><entry><title type="html">Crowd Surfers</title><link href="http://localhost:4000/avht.games/jekyll/update/2026/01/03/crowd-surfers.html" rel="alternate" type="text/html" title="Crowd Surfers" /><published>2026-01-03T09:40:33-08:00</published><updated>2026-01-03T09:40:33-08:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2026/01/03/crowd-surfers</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2026/01/03/crowd-surfers.html"><![CDATA[<h1 id="crowd-surfers">Crowd Surfers</h1>
-<p>ONGOING PROJECT…NO PLAYABLES RIGHT NOW.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/avht.games/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/avht.games/" rel="alternate" type="text/html" /><updated>2026-10-05T15:18:41-07:00</updated><id>http://localhost:4000/avht.games/feed.xml</id><title type="html">alistair tran</title><subtitle>big fan of fish. bigger fan of games. teach a man to narrative design, make games about fish forever.</subtitle><entry><title type="html">Crowd Surfers</title><link href="http://localhost:4000/avht.games/jekyll/update/2026/01/03/crowd-surfers-copy.html" rel="alternate" type="text/html" title="Crowd Surfers" /><published>2026-01-03T09:40:33-08:00</published><updated>2026-01-03T09:40:33-08:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2026/01/03/crowd-surfers%20copy</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2026/01/03/crowd-surfers-copy.html"><![CDATA[<h1 id="crowd-surfers"><a href="https://game-design-art-collab.itch.io/crowd-surfers">Crowd Surfers</a></h1>
 
 <p>“unserious top-down speedrunner”</p>
 
@@ -8,7 +7,8 @@
 <p>I strive to be a <strong>productive</strong> programming producer, making sure programmers <strong>communicated with each other</strong> to support cross developmental production in a timely manner.</p>
 
 <p><img src="/avht.games/images/Crowd Surfers/unnamed (1) (2).png" alt="Image" />
-<img src="/avht.games/images/Crowd Surfers/crowd surfers.gif" alt="Image" /></p>
+<img src="/avht.games/images/Crowd Surfers/crowd_surfers_controls.gif" alt="Image" />
+<img src="/avht.games/images/Crowd Surfers/crowd_surfer_gif.gif" alt="Image" /></p>
 
 <p>A game made by the <a href="https://gdacollab.com/">Game Design and Art Collaboration</a> at UCSC. Crowd Surfers is a dynamic momentum-based top-down speedrunner. A young pizza delivery guy with bills to pay must dash, stomp, and glide over obstacles in order to deliver pizza on time!</p>
 
@@ -19,7 +19,9 @@
   <li>Engaged in a SCRUM based sprint system and worked closely with other producers to maintain course throughout production</li>
   <li>Designed basic system architecture for early production, later delegating tasks and overseeing iterations</li>
   <li>Communicated with other departments, such as sound, art, and design, to relay pain points in production and delegate tool development tasks for smoother production</li>
-</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Crowd Surfers ONGOING PROJECT…NO PLAYABLES RIGHT NOW.]]></summary></entry><entry><title type="html">blu,</title><link href="http://localhost:4000/avht.games/jekyll/update/2026/01/01/blu.html" rel="alternate" type="text/html" title="blu," /><published>2026-01-01T09:40:33-08:00</published><updated>2026-01-01T09:40:33-08:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2026/01/01/blu</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2026/01/01/blu.html"><![CDATA[<h1 id="blu">blu,</h1>
+</ul>
+
+<h1 id="read-more"><a href="/avht.games/more-crowd-surfers/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Crowd Surfers]]></summary></entry><entry><title type="html">blu,</title><link href="http://localhost:4000/avht.games/jekyll/update/2026/01/01/blu.html" rel="alternate" type="text/html" title="blu," /><published>2026-01-01T09:40:33-08:00</published><updated>2026-01-01T09:40:33-08:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2026/01/01/blu</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2026/01/01/blu.html"><![CDATA[<h1 id="blu">blu,</h1>
 <p><a href="https://store.steampowered.com/app/3895850/blu/">STEAM PAGE</a>. NO PLAYABLES RIGHT NOW.</p>
 
 <p>“A game about a collection of games that aren’t mine.”</p>
@@ -118,7 +120,32 @@ game</li>
 <h1 id="placements">Placements</h1>
 <p>wasn’t a ranked jam :(</p>
 
-<h1 id="read-more"><a href="/avht.games/more-sorry-sorry-sorry/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[SORRY, SORRY, SORRY Video Playthrough]]></summary></entry><entry><title type="html">FinuxOS</title><link href="http://localhost:4000/avht.games/jekyll/update/2022/04/01/finuxos.html" rel="alternate" type="text/html" title="FinuxOS" /><published>2022-04-01T10:40:33-07:00</published><updated>2022-04-01T10:40:33-07:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2022/04/01/finuxos</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2022/04/01/finuxos.html"><![CDATA[<h1 id="finuxos"><a href="https://colorplease.itch.io/finuxos">FinuxOS</a></h1>
+<h1 id="read-more"><a href="/avht.games/more-sorry-sorry-sorry/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[SORRY, SORRY, SORRY Video Playthrough]]></summary></entry><entry><title type="html">Belly Up</title><link href="http://localhost:4000/avht.games/jekyll/update/2022/06/03/belly-up.html" rel="alternate" type="text/html" title="Belly Up" /><published>2022-06-03T10:40:33-07:00</published><updated>2022-06-03T10:40:33-07:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2022/06/03/belly-up</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2022/06/03/belly-up.html"><![CDATA[<h1 id="belly-up"><a href="https://colorplease.github.io/belly-up-web/">Belly Up</a></h1>
+
+<p>“2D Movement Based Arcade Fish Shooter”</p>
+
+<p>Inspired by <em>ULTRAKILL and Last Man Sitting</em></p>
+
+<p>I sought to make a <strong>challenging</strong> game that was <strong>easy to learn</strong> but <strong>difficult to master</strong> and <strong>rewards players for honing their skills</strong>.</p>
+
+<p><img src="/avht.games/images/belly up/ezgif-3-b7de0f3b4c.gif" alt="Image" /></p>
+
+<p>A game made for the <a href="https://itch.io/jam/mini-jam-109-depths">Mini Jam 109: Depth(s)</a>. Belly Up is a 2D Movement Based Arcade shooter, where you carefully manage your energy levels and momentum to carefully tread down to the bottom of the sea. All sorts of life lurk down in the murky depths, and it takes a skillful pilot to make it all the way down, without going belly up.</p>
+
+<h1 id="contributions">Contributions</h1>
+<ul>
+  <li>Vision Holder / Game Lead for the project</li>
+  <li>Continued development post-launch, adding new features and gameplay</li>
+  <li>Published bi-weekly updates &amp; balance changes for a year, iterating on community feedback</li>
+  <li>Implemented automated deployment and testing with Github Pages and CI</li>
+</ul>
+
+<h1 id="placements">Placements</h1>
+<p>Placed 5th in “Enjoyment”…</p>
+
+<p>…out of 145 entries.</p>
+
+<h1 id="read-more"><a href="/avht.games//more-belly-up/">read more…</a></h1>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Belly Up]]></summary></entry><entry><title type="html">FinuxOS</title><link href="http://localhost:4000/avht.games/jekyll/update/2022/04/01/finuxos.html" rel="alternate" type="text/html" title="FinuxOS" /><published>2022-04-01T10:40:33-07:00</published><updated>2022-04-01T10:40:33-07:00</updated><id>http://localhost:4000/avht.games/jekyll/update/2022/04/01/finuxos</id><content type="html" xml:base="http://localhost:4000/avht.games/jekyll/update/2022/04/01/finuxos.html"><![CDATA[<h1 id="finuxos"><a href="https://colorplease.itch.io/finuxos">FinuxOS</a></h1>
 <p><a href="https://youtu.be/8DnUWYee8Vg">Video Playthrough</a></p>
 
 <p>“limewire + warioware” - BlabApple</p>
